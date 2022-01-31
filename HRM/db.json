@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "employeename": "chandu",
+      "salary": "500000",
+      "bankname": "SBI",
+      "accountno": "987654321098765",
+      "accountholdername": "chandu",
+      "ifsccode": "IFSC23456",
+      "taxdeduction": "1234"
+    },
+    {
+      "id": 3,
+      "employeename": "chandrika",
+      "salary": "500000",
+      "bankname": "SBI",
+      "accountno": "987654321098765",
+      "accountholdername": "chandrika",
+      "ifsccode": "IFSC23456",
+      "taxdeduction": "1253"
+    },
+    {
+      "id": 5,
+      "employeename": "Devika",
+      "salary": "750000",
+      "bankname": "INDIAN",
+      "accountno": "290879245789",
+      "accountholdername": "Devika",
+      "ifsccode": "IFSC09656",
+      "taxdeduction": "2053"
+    },
+    {
+      "id": 6,
+      "employeename": "",
+      "salary": "12345",
+      "bankname": "Indian",
+      "accountno": "12345678911122",
+      "accountholdername": "dfgthjgfd",
+      "ifsccode": "hgfdf9876",
+      "taxdeduction": "25",
+      "reenteraccountno": "12345678911122"
+    },
+    {
+      "id": 7,
+      "employeename": "",
+      "salary": "78787878",
+      "bankname": "",
+      "accountno": "",
+      "accountholdername": "",
+      "ifsccode": "",
+      "taxdeduction": ""
+    }
+  ]
+}
